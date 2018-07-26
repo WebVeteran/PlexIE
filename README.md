@@ -6,12 +6,12 @@ The concentration is on large landscape format images. Portrait images and small
 
 ## Usage
 
-Place the enclosed _PlexIE.app into a folder you'd like to store the exported images. Then run it.
+Place the enclosed _PlexIE.app into a folder you'd like to store the exported images. Then run it. It takes while, be patient.
 
 ### Recommendations
 
 - Set your Desktop Background to use this folder. Change picture: Every 5 minutes. [√] Random order.
-- Set your Screesaver to Ken Burns using this folder as the source. Shuffle slide order.
+- Set your Screesaver to Ken Burns using this folder as the source. [√] Shuffle slide order.
 - Add this folder to Time Machine's exclude list.
 - Run this app after you've added more movies to Plex.
 
