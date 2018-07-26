@@ -3,13 +3,13 @@
 PlexIE is an AppleScript application that exports Plex's images (Artwork, Posters, Chapters) into a single folder.
 The concentration is on large landscape format images. Portrait images and small images are pruned.
 
-
 ## Usage
 
 Place the enclosed _PlexIE.app into a folder you'd like to store the exported images. Then run it. It takes while, be patient.
 
 ### Recommendations
 
+- Make an alias of the app someplace more convenient.
 - Set your Desktop Background to use this folder. Change picture: Every 5 minutes. [√] Random order.
 - Set your Screesaver to Ken Burns using this folder as the source. [√] Shuffle slide order.
 - Add this folder to Time Machine's exclude list.
