@@ -21,5 +21,3 @@ Place the enclosed _PlexIE.app into a folder you'd like to store the exported im
 - Stack Overflow https://stackoverflow.com/ (I threw this together in 24 hours via lots of searching)
 
 Released under Creative Commons Attribution-NonCommercial 3.0 Unported License.
-
-Creator : Jules Gravinese :: https://gravitywebworks.com/
