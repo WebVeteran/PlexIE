@@ -5,7 +5,7 @@ The concentration is on large landscape format images. Portrait images and small
 
 ## Usage
 
-Place the enclosed _PlexIE.app into a folder you'd like to store the exported images. Then run it. It takes while, be patient.
+Place the enclosed \_PlexIE.app into a folder you'd like to store the exported images. Then run it. It takes while, be patient.
 
 ### Recommendations
 
