@@ -1,4 +1,5 @@
 # PlexIE - Plex Image Exporter
+Version 1.1
 
 PlexIE is an AppleScript application that exports Plex's images (Artwork, Posters, Chapters) into a single folder.
 The concentration is on large landscape format images. Portrait images and small images are pruned.
@@ -19,5 +20,6 @@ Place the enclosed \_PlexIE.app into a folder you'd like to store the exported i
 
 - Plex https://www.plex.tv/
 - Stack Overflow https://stackoverflow.com/ (I threw this together in 24 hours via lots of searching)
+- Author: Jules Gravinese // GravityWebWorks.com
 
 Released under Creative Commons Attribution-NonCommercial 3.0 Unported License.
