@@ -20,6 +20,6 @@ Place the enclosed \_PlexIE.app into a folder you'd like to store the exported i
 
 - Plex https://www.plex.tv/
 - Stack Overflow https://stackoverflow.com/ (I threw this together in 24 hours via lots of searching)
-- Author: Jules Gravinese // GravityWebWorks.com
+- Author: Jules Gravinese // https://GravityWebWorks.com
 
 Released under Creative Commons Attribution-NonCommercial 3.0 Unported License.
